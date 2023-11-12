@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **tae7un/tae7un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
